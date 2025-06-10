@@ -1,4 +1,4 @@
-# JPMorgan & Chase Quant Researcher Virtual Experience
+# JPMorgan Chase & Co. Quant Researcher Virtual Experience
 
 This repository contains the code I wrote for achieving this certification. I will briefly go over what I did and the skills and tools I used for each task.
 
